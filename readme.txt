@@ -5,3 +5,6 @@ Formation devops
 - GitHub
 - GitHub Actions
 - CI/CD
+######
+automatisation
+
